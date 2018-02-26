@@ -1,0 +1,15 @@
+CCS3 = Hojas de estilo en cascada
+Maquetado = HTML5 + CCS3 (diseño, colores, etc.)
+
+Hojas de estilo:
+ * Selectores:
+ 	- Etiqueta
+ 		* atributos:valor;
+ 	- Identificador
+ 		* atributos:valor;
+ 	- Clase
+ 		* atributos:valor;
+ 	- Pseudoelemento
+ 		* atributos:valor;
+
+ 	* Todos en órden alfabético
