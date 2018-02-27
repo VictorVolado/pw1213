@@ -13,3 +13,12 @@ Hojas de estilo:
  		* atributos:valor;
 
  	* Todos en órden alfabético
+
+
+ 	padding: 5px; <-- le aplica 5px a todos los lados
+ 	padding: 5px 10px; <-- le aplica 5px arriba+abajo y derecha+izquierda
+ 	padding: 5px 10px 8px 2px; <-- le aplica 5px arriba-derecha-abajo-izquierda
+
+ 	Espaciados
+ 	* padding: dentro de la caja
+ 	* margin: entre cajas
