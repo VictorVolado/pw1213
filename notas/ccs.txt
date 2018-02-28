@@ -22,3 +22,6 @@ Hojas de estilo:
  	Espaciados
  	* padding: dentro de la caja
  	* margin: entre cajas
+
+
+Wireframe -> mockups -> prototipo -> final
