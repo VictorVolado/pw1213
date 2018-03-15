@@ -27,3 +27,8 @@ Hojas de estilo:
 Wireframe -> mockups -> prototipo -> final
 
 16px = 1em
+
+
+///// Tipos de letra: fuentes, tipografía
+	* De pago: compra o dentro del sistema operativo
+	* Gratuita
