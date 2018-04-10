@@ -32,3 +32,35 @@ Wireframe -> mockups -> prototipo -> final
 ///// Tipos de letra: fuentes, tipografía
 	* De pago: compra o dentro del sistema operativo
 	* Gratuita
+
+
+
+--- JavaScript
+* No es JAVA
+* Comparte sintaxis con JAVA
+* No es tapado
+* Comportamiento de los objetos dentro de la página
+* Sí es un lenguaje de programación
+
+
+var respuesta = prompt('Dame un número', 0);
+respuesta
+function suma(a,b){ return a+b; }
+
+suma
+ƒ suma(a,b){ return a+b; }
+suma(4,5);
+
+// funcioón anónima
+var sumaNumeros = function(a,b){ return a+b; }
+suma(6,7)
+sumaNumeros(1,4)
+
+document.write("<article id='demo'> </article>");
+document.getElementById('demo');
+<article id=​"demo">​ ​</article>​
+document.write("<input type='text' id='txt'>");
+document.getElementById('txt').value=81;
+console.log(':c')
+
+document.write("<button onclick=alert('click')> Da click x2 </button>")
